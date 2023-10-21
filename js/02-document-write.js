@@ -1,1 +1,1 @@
-document.write("<h2>Hello World</h2>")
+document.write("<h1 class='titulo'>Hello World</h1>")
