@@ -5,8 +5,8 @@ let divisibleDos = numeroIngresado % 2 ;
 
 
 if (divisibleDos == 0) {
-  alert("es divisible en dos")
+  alert(numeroIngresado + " es divisible en dos")
 } else {
-  alert("no es divisible en dos")
+  alert(numeroIngresado + " no es divisible en dos")
 }
 
