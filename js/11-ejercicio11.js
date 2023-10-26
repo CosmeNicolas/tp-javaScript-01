@@ -37,9 +37,9 @@ let numeroDiv = parseInt(prompt('Ingrese un numero'));
     } else if(numeroDiv % 3 == 0) {
       console.log(`El numero ${numeroDiv} es divisible en 3 y en si mismo`)
     } else if(numeroDiv % 5 == 0){
-      console.log(`El numero ${numeroDiv} es divisible en 5 y mismo`)
+      console.log(`El numero ${numeroDiv} es divisible en 5 y en si mismo`)
     } else if (numeroDiv % 7 == 0) {
-      console.log(`El numero ${numeroDiv} es divisible en 7 y mismo`)
+      console.log(`El numero ${numeroDiv} es divisible en 7 y ensi mismo`)
     } else if (numeroDiv % numeroDiv == 0) {
       console.log('es divisible en si mismo')
     } else {
